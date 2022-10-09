@@ -2,7 +2,7 @@
 
 ### About
 
-This project contains a simple PostgreSQL image for educational purposes.
+This project contains a simple run of a PostgreSQL image with docker-compose for educational purposes
 
 ### Stack:
 
