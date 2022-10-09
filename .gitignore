@@ -1,0 +1,16 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# SQL files
+*.sql
+
+# Docker & PostgreSQL temp files
+docker
+
+# IDE
+.idea
+.vscode
